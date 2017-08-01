@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "zhongbinxuan@vrseen.com"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "angularjs": "~1.4.7",
+    "bootstrap-modal": "~2.2.6",
+    "angular-ui-router": "~0.2.15",
+    "angular-animate": "~1.2.x",
+    "ngstorage": "~0.3.9",
+    "ngdraggable": "~0.1.8"
+  }
+}
